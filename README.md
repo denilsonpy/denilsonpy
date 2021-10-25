@@ -8,4 +8,4 @@ I'm Denilson, a Software Developer from Brazil.
 
 More about me:
 - :electron: I'm currently studying React.
-- :email: Send me an [email](mailto:contato.denilsonsilva@gmail.com) or a DM on [Twitter](https://www.instagram.com/denilson_17y/) if you want to contact me.
+- :email: Send me an [email](mailto:contato.denilsonsilva@gmail.com) or a DM on [Twitter](https://twitter.com/Denlson39595217) if you want to contact me.
