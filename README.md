@@ -10,7 +10,7 @@ More about me:
 - :electron: I'm currently studying React.
 - :email: Send me an [email](mailto:contato.denilsonsilva@gmail.com) or a DM on [Twitter](https://twitter.com/Denlson39595217) if you want to contact me.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=denilsonpy&show_icons=true)
-![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy" width=40% height=20%>
+<img src="https://github-readme-stats.vercel.app/api?username=denilsonpy&show_icons=true" width=70% height=20%>
 
 
