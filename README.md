@@ -5,8 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Denlson39595217)](https://twitter.com/Denlson39595217)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=denilsonpy&show_icons=true" width=70% height=20%>
-
 I'm Denilson, a Software Developer from Brazil.
 
 More about me:
