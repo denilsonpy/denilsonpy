@@ -10,6 +10,9 @@ I'm Denilson, a Software Developer from Brazil.
 More about me:
 - 🦾 I'm currently studying DevOPS.
 - :email: Send me an [Email](mailto:contato.denilsonsilva@gmail.com) or a DM on [Twitter](https://twitter.com/Denlson39595217) if you want to contact me.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy" width=40% height=20%>
+<br />
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
 
