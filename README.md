@@ -8,7 +8,7 @@
 I'm Denilson, a Software Developer from Brazil. 
 
 <br/>
-<img src="https://media4.giphy.com/media/l0JMaNj0xZ6cDFLvq/giphy.gif?cid=ecf05e473qe3n1vyem2m394ga0cgeoc2pzwvjs2ou01jfzul&rid=giphy.gif&ct=g" width="40%" height="20%" />
+<img src="https://media4.giphy.com/media/l0JMaNj0xZ6cDFLvq/giphy.gif?cid=ecf05e473qe3n1vyem2m394ga0cgeoc2pzwvjs2ou01jfzul&rid=giphy.gif&ct=g" width="400px" height="20%" />
 <br/>
 
 More about me:
