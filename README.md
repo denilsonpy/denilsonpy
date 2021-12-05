@@ -7,10 +7,6 @@
 
 I'm Denilson, a Software Developer from Brazil. 
 
-<br/>
-<img src="https://media4.giphy.com/media/l0JMaNj0xZ6cDFLvq/giphy.gif?cid=ecf05e473qe3n1vyem2m394ga0cgeoc2pzwvjs2ou01jfzul&rid=giphy.gif&ct=g" width="400px" height="20%" />
-<br/>
-
 More about me:
 - 🦾 I'm currently studying DevOPS.
 - :email: Send me an [Email](mailto:contato.denilsonsilva@gmail.com) or a DM on [Twitter](https://twitter.com/Denlson39595217) if you want to contact me.
