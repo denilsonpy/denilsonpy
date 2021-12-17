@@ -13,24 +13,28 @@ More about me:
 
 ```javascript
 let Denilson = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Shell", "Typescript"],
-    askMeAbout: ["web dev", "tech", "app dev", "automation"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Flask", "Data Analysis"]
-        },
-        mobileApp: {
-            native: ["Android Development", "IOS Development", "React Native"]
-        },
-        devOps: ["Docker🐳", "Nginx"],
-        databases: ["postgres", "sqlite"],
-        misc: ["selenium"]
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "Shell", "Typescript"],
+  askMeAbout: ["web dev", "tech", "app dev", "automation"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express"],
+      python: ["Flask", "Data Analysis"],
     },
-    architecture: ["Single page applications"],
-    currentFocus: ["Android/IOS Mobile App Development", "Docker/Nginx"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    web: {
+      frameworks: ["React.js", "Next.js"],
+    },
+    mobileApp: {
+      native: ["Android Development", "IOS Development", "React Native"],
+    },
+    devOps: ["Docker🐳", "Nginx"],
+    databases: ["postgres", "sqlite"],
+    misc: ["selenium"],
+  },
+  architecture: ["Single page applications"],
+  currentFocus: ["Android/IOS Mobile App Development", "Docker/Nginx"],
+  funFact:
+    "There are two ways to write error-free programs; only the third one works",
 };
 ```
 
