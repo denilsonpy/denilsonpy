@@ -10,7 +10,7 @@ More about me:
 - :email: Send me an [Email](mailto:contato.denilsonsilva@gmail.com) or a DM on [Twitter](https://twitter.com/Denlson39595217) if you want to contact me.
 
 ```javascript
-const Denilson = {
+const denilson = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "Shell", "Typescript"],
   askMeAbout: ["web dev", "tech", "app dev", "automation"],
