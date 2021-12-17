@@ -10,6 +10,30 @@ I'm Denilson, a Software Developer from Brazil.
 More about me:
 - 🦾 I'm currently studying DevOPS.
 - :email: Send me an [Email](mailto:contato.denilsonsilva@gmail.com) or a DM on [Twitter](https://twitter.com/Denlson39595217) if you want to contact me.
+
+```javascript
+let denilson = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Shell", "Typescript"],
+    askMeAbout: ["web dev", "tech", "app dev", "automation"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Flask", "Data Analysis"]
+        },
+        mobileApp: {
+            native: ["Android Development", "IOS Development", "React Native"]
+        },
+        devOps: ["Docker🐳", "Nginx"],
+        databases: ["postgres", "sqlite"],
+        misc: ["selenium"]
+    },
+    architecture: ["Single page applications"],
+    currentFocus: ["Android/IOS Mobile App Development", "Docker/Nginx"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 <br />
 <details>
   <summary>:zap: Languages Used</summary>
