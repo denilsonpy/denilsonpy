@@ -1,4 +1,4 @@
-## Hi, i'm Denilson a Software Developer from Brazil.  👋
+## Hi, i'm Denilson a Software Developer from Brazil. <img src="https://img.itch.zone/aW1nLzY5NDE3OTQuZ2lm/original/gb6j7G.gif" width="40" height="40" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denilson-martins-2781951b2/)](https://www.linkedin.com/in/denilson-martins-2781951b2/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/denilson_17y/)](https://www.instagram.com/denilson_17y/)
