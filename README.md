@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/denilson_17y/)](https://www.instagram.com/denilson_17y/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Denlson39595217)](https://twitter.com/Denlson39595217)
 
-<img src="https://github-readme-stats.vercel.app/api/?username=denilsonpy&count_private=true&theme=tokyonight&showicons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=denilsonpy&theme=synthwave&show_icons=true&count_private=true">
 
 More about me:
 - 🦾 I'm currently studying DevOPS.
@@ -40,6 +40,6 @@ const denilson = {
 <br />
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&langs_count=7&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&langs_count=4&theme=synthwave">
 </details>
 
