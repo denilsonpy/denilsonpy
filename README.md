@@ -6,7 +6,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=denilsonpy&theme=synthwave&show_icons=true&count_private=true" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&langs_count=8&theme=synthwave&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&langs_count=8&theme=synthwave&layout=compact" width="36%">
 </div>
 
 
