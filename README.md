@@ -5,8 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Denlson39595217)](https://twitter.com/Denlson39595217)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=denilsonpy&theme=synthwave&show_icons=true&count_private=true" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&langs_count=8&theme=synthwave&layout=compact" width="36%">
+  <img src="https://github-readme-stats.vercel.app/api?username=denilsonpy&theme=synthwave&show_icons=true&count_private=true" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&langs_count=8&theme=synthwave&layout=compact" width="328">
 </div>
 
 
