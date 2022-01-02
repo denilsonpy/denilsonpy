@@ -36,7 +36,7 @@ const denilson = {
     databases: ["postgres", "sqlite"],
     misc: ["selenium"],
   },
-  currentFocus: ["Android/IOS Mobile App Development", "Docker/Nginx"],
+  currentFocus: ["Machine Learning", "Blockchain"],
   funFact:
     "There are two ways to write error-free programs; only the third one works",
 };
