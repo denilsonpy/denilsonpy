@@ -9,11 +9,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&hide=css,scss,html&theme=onedark&layout=compact" width="328">
 </div>
 
+### About me
+I'm a {backend, frontend and mobile} developer.
 
-More about me:
 ```diff
-! 🦾 I'm currently studying Machine Learning.
-+ 🌱 I like to spend my time studying blockchains and smart contracts
++ 🦾 I'm currently studying Machine Learning.
 ```
 
 ```javascript
