@@ -34,13 +34,13 @@ const denilson = {
       frameworks: ["React.js", "Next.js"],
     },
     mobileApp: {
-      native: ["Android Development", "IOS Development", "React Native"],
+      native: ["React Native"],
     },
     devOps: ["Docker🐳", "Nginx"],
     databases: ["postgres💾", "sqlite"],
     misc: ["selenium"],
   },
-  currentFocus: ["Machine Learning🤖", "Blockchain"],
+  currentFocus: ["FrontEnd", "UI/UX"],
   funFact:
     "There are two ways to write error-free programs; only the third one works",
 };
