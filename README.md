@@ -14,10 +14,10 @@
 
 
 ### About me
-I'm a {backend, frontend and mobile} developer.
+I'm a FullStack developer.
 
 ```diff
-+ 🦾 I'm currently studying Machine Learning.
++ 🦾 I'm currently studying React.
 ```
 
 ```javascript
