@@ -17,7 +17,7 @@
 I'm a Frontend developer.
 
 ```diff
-+ 🦾 I'm currently studying React.
++ 🦾 I'm currently studying Nextjs.
 ```
 
 ```javascript
