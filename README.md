@@ -14,7 +14,7 @@
 
 
 ### About me
-I'm a FullStack developer.
+I'm a Frontend developer.
 
 ```diff
 + 🦾 I'm currently studying React.
