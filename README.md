@@ -7,16 +7,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/denilson_17y/)](https://www.instagram.com/denilson_17y/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Denlson39595217)](https://twitter.com/Denlson39595217)
 
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=denilsonpy&theme=onedark&show_icons=true&count_private=true" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&hide=css,scss,html&theme=onedark&layout=compact" width="328">
+  <a href="https://github.com/denilsonpy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonpy&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&layout=compact&langs_count=6"/>
 </div>
-
-<br />
-
-```diff
-+ 🦾 I'm currently studying Nextjs.
-```
 
 <br />
 
