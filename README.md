@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/github/followers/denilsonpy.svg?style=social&label=Follow&maxAge=2592000">
 
-# Hi, i'm Denilson! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, i'm Denilson! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denilson-martins-2781951b2/)](https://www.linkedin.com/in/denilson-martins-2781951b2/)
