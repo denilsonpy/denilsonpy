@@ -4,7 +4,7 @@ I’m a Full Stack Developer. Currently I'm working as a Web and Mobile Develope
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
-🌎 Front-end Web with React and Next
+🌎 Front-end Web with React and Next  
 📡 Back-end with Node.js  
 🛠️ Typescript  
 🧰 And more...  
