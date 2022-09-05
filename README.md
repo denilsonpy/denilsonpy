@@ -1,7 +1,5 @@
 ## Hi, I'm Denilson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpy&layout=compact&langs_count=20&theme=dark)
-
 I’m a Full Stack Developer. Currently I'm working as a Web and Mobile Developer.
 
 #### My current tools 
