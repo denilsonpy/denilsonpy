@@ -1,7 +1,5 @@
 ## Hi, I'm Denilson
 
-I’m a Full Stack Developer.
-
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with React and Next  
