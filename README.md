@@ -1,11 +1,3 @@
-## Hi, I'm Denilson
-
-#### My current tools 
-📲 Front-end Mobile with React Native  
-🌎 Front-end Web with React and Next  
-📡 Back-end with Node.js  
-🛠️ Typescript  
-
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/denilson-martins-2781951b2/) 
